@@ -1,1 +1,1 @@
-echo "lgnjx"
+echo "mocud"
