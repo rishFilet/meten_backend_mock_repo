@@ -1,2 +1,1 @@
 print("gvgkl")
-print("qnlal")
