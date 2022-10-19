@@ -1,1 +1,1 @@
-print("trtfe")
+print("amols")
