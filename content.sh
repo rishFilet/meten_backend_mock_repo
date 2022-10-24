@@ -1,1 +1,1 @@
-echo "xqoku"
+echo "mduku"
