@@ -1,1 +1,1 @@
-echo "usabg"
+echo "naujk"
