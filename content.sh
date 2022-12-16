@@ -1,1 +1,1 @@
-echo "naujk"
+echo "suavg"
