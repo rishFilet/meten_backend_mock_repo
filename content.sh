@@ -1,2 +1,1 @@
 echo "laodi"
-echo "mgsdj"
