@@ -1,1 +1,1 @@
-echo "sjydy"
+echo "thoic"
