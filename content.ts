@@ -1,2 +1,2 @@
 console.log("pauph")
-console.log("krcnm")
+console.log("amrat")
