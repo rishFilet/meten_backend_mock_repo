@@ -91,3 +91,4 @@ SELECT * from jrjef;
 SELECT * from bcqec;
 SELECT * from ywrvi;
 SELECT * from aiqvt;
+SELECT * from jftii;
