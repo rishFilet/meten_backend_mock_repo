@@ -3,3 +3,4 @@ SELECT * from oexgf;
 SELECT * from aifug;
 SELECT * from hyegf;
 SELECT * from gimee;
+SELECT * from hpruo;
