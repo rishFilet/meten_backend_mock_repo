@@ -1,2 +1,2 @@
 console.log("ubski")
-console.log("dintj")
+console.log("octtq")
