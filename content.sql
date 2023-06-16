@@ -6,3 +6,5 @@ SELECT * from gimee;
 SELECT * from hpruo;
 SELECT * from fafdj;
 SELECT * from jhfxv;
+SELECT * from cgrit;
+SELECT * from tprym;
