@@ -95,3 +95,5 @@ SELECT * from jftii;
 SELECT * from ranup;
 SELECT * from sextx;
 SELECT * from jmtbf;
+SELECT * from ggest;
+SELECT * from ydbvp;
