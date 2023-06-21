@@ -97,3 +97,4 @@ SELECT * from sextx;
 SELECT * from jmtbf;
 SELECT * from ggest;
 SELECT * from ydbvp;
+SELECT * from ilauo;
