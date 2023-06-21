@@ -8,3 +8,4 @@ SELECT * from fafdj;
 SELECT * from jhfxv;
 SELECT * from cgrit;
 SELECT * from tprym;
+SELECT * from rycek;
