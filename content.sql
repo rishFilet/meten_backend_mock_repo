@@ -99,3 +99,4 @@ SELECT * from ggest;
 SELECT * from ydbvp;
 SELECT * from ilauo;
 SELECT * from wmwfx;
+SELECT * from lgslg;
