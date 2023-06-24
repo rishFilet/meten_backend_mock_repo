@@ -10,3 +10,4 @@ SELECT * from cgrit;
 SELECT * from tprym;
 SELECT * from rycek;
 SELECT * from kgygm;
+SELECT * from govyo;
