@@ -9,4 +9,4 @@ SELECT * from jhfxv;
 SELECT * from cgrit;
 SELECT * from tprym;
 SELECT * from rycek;
-SELECT * from miyea;
+SELECT * from yxmwb;
