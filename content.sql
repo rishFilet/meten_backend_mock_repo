@@ -98,4 +98,4 @@ SELECT * from jmtbf;
 SELECT * from ggest;
 SELECT * from ydbvp;
 SELECT * from ilauo;
-SELECT * from eenib;
+SELECT * from wrtwo;
