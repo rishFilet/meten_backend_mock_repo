@@ -100,3 +100,4 @@ SELECT * from ydbvp;
 SELECT * from ilauo;
 SELECT * from wmwfx;
 SELECT * from lgslg;
+SELECT * from kwieo;
