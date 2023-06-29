@@ -102,3 +102,4 @@ SELECT * from wmwfx;
 SELECT * from lgslg;
 SELECT * from kwieo;
 SELECT * from kwrsk;
+SELECT * from yxknr;
