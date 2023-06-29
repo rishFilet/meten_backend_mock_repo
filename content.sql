@@ -13,3 +13,4 @@ SELECT * from kgygm;
 SELECT * from govyo;
 SELECT * from sayxh;
 SELECT * from whjth;
+SELECT * from eyueb;
