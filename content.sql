@@ -12,3 +12,4 @@ SELECT * from rycek;
 SELECT * from kgygm;
 SELECT * from govyo;
 SELECT * from sayxh;
+SELECT * from whjth;
