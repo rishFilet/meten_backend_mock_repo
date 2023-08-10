@@ -105,4 +105,3 @@ SELECT * from kwrsk;
 SELECT * from yxknr;
 SELECT * from rfdoo;
 SELECT * from ssotp;
-SELECT * from gcxeh;
