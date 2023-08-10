@@ -16,3 +16,4 @@ SELECT * from whjth;
 SELECT * from eyueb;
 SELECT * from phiyi;
 SELECT * from dkckg;
+SELECT * from irkul;
