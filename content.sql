@@ -107,3 +107,5 @@ SELECT * from rfdoo;
 SELECT * from ssotp;
 SELECT * from itrhn;
 SELECT * from xdixe;
+SELECT * from rbpkv;
+SELECT * from ndpsc;
