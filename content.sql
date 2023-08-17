@@ -18,3 +18,5 @@ SELECT * from phiyi;
 SELECT * from dkckg;
 SELECT * from pmdgg;
 SELECT * from qgnin;
+SELECT * from ytwis;
+SELECT * from creek;
