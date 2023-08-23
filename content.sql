@@ -111,3 +111,4 @@ SELECT * from rbpkv;
 SELECT * from ndpsc;
 SELECT * from iutlq;
 SELECT * from pphfo;
+SELECT * from mlyfg;
