@@ -23,3 +23,4 @@ SELECT * from creek;
 SELECT * from jvkye;
 SELECT * from kalsh;
 SELECT * from utuui;
+SELECT * from snrqi;
