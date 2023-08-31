@@ -112,3 +112,4 @@ SELECT * from ndpsc;
 SELECT * from iutlq;
 SELECT * from pphfo;
 SELECT * from mlyfg;
+SELECT * from byfhm;
