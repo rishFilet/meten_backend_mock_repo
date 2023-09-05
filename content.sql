@@ -113,4 +113,3 @@ SELECT * from iutlq;
 SELECT * from pphfo;
 SELECT * from mlyfg;
 SELECT * from byfhm;
-SELECT * from kiltk;
