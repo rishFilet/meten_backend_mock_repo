@@ -25,3 +25,4 @@ SELECT * from kalsh;
 SELECT * from utuui;
 SELECT * from snrqi;
 SELECT * from nqiaf;
+SELECT * from mvgds;
