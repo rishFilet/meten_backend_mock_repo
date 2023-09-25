@@ -114,3 +114,4 @@ SELECT * from pphfo;
 SELECT * from mlyfg;
 SELECT * from byfhm;
 SELECT * from rctyl;
+SELECT * from khxry;
