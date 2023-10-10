@@ -115,3 +115,4 @@ SELECT * from mlyfg;
 SELECT * from byfhm;
 SELECT * from rctyl;
 SELECT * from neies;
+SELECT * from pinau;
