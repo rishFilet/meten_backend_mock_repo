@@ -26,3 +26,4 @@ SELECT * from utuui;
 SELECT * from snrqi;
 SELECT * from nqiaf;
 SELECT * from smtia;
+SELECT * from renhv;
