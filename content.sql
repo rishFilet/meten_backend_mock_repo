@@ -116,3 +116,4 @@ SELECT * from byfhm;
 SELECT * from rctyl;
 SELECT * from neies;
 SELECT * from pinau;
+SELECT * from ofkir;
