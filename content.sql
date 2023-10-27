@@ -28,3 +28,4 @@ SELECT * from nqiaf;
 SELECT * from smtia;
 SELECT * from renhv;
 SELECT * from oywku;
+SELECT * from dnusx;
