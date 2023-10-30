@@ -29,3 +29,4 @@ SELECT * from smtia;
 SELECT * from renhv;
 SELECT * from oywku;
 SELECT * from jkkwa;
+SELECT * from mblty;
