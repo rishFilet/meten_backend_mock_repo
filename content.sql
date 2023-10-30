@@ -119,4 +119,4 @@ SELECT * from pinau;
 SELECT * from ofkir;
 SELECT * from vuwfa;
 SELECT * from kocnp;
-SELECT * from hinmu;
+SELECT * from kwgpn;
