@@ -30,3 +30,4 @@ SELECT * from renhv;
 SELECT * from oywku;
 SELECT * from jkkwa;
 SELECT * from sbfcb;
+SELECT * from meyxp;
