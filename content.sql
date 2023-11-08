@@ -123,3 +123,4 @@ SELECT * from kwgpn;
 SELECT * from sjoes;
 SELECT * from lswbt;
 SELECT * from kepvy;
+SELECT * from tipxs;
