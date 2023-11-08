@@ -32,3 +32,4 @@ SELECT * from jkkwa;
 SELECT * from sbfcb;
 SELECT * from meyxp;
 SELECT * from srmly;
+SELECT * from nrvbi;
