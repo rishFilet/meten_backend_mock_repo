@@ -124,3 +124,4 @@ SELECT * from sjoes;
 SELECT * from lswbt;
 SELECT * from kepvy;
 SELECT * from tipxs;
+SELECT * from gdxnj;
