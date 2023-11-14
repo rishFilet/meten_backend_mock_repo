@@ -35,3 +35,4 @@ SELECT * from srmly;
 SELECT * from nrvbi;
 SELECT * from pxcok;
 SELECT * from umqrg;
+SELECT * from qavef;
