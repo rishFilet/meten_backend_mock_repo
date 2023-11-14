@@ -34,3 +34,4 @@ SELECT * from meyxp;
 SELECT * from srmly;
 SELECT * from nrvbi;
 SELECT * from pxcok;
+SELECT * from umqrg;
