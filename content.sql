@@ -126,3 +126,4 @@ SELECT * from kepvy;
 SELECT * from tipxs;
 SELECT * from gdxnj;
 SELECT * from okyhv;
+SELECT * from pacmm;
