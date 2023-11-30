@@ -37,3 +37,4 @@ SELECT * from pxcok;
 SELECT * from umqrg;
 SELECT * from qavef;
 SELECT * from lxiwe;
+SELECT * from riexr;
