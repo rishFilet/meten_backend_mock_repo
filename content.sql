@@ -128,3 +128,4 @@ SELECT * from gdxnj;
 SELECT * from okyhv;
 SELECT * from pacmm;
 SELECT * from oavdj;
+SELECT * from wgpws;
