@@ -38,3 +38,4 @@ SELECT * from umqrg;
 SELECT * from qavef;
 SELECT * from lxiwe;
 SELECT * from riexr;
+SELECT * from jlxue;
