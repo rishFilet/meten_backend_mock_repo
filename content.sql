@@ -42,3 +42,4 @@ SELECT * from jlxue;
 SELECT * from lrstw;
 SELECT * from pkhfh;
 SELECT * from aqjxu;
+SELECT * from cvnvo;
