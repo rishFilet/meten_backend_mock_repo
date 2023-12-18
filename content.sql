@@ -133,3 +133,4 @@ SELECT * from mndvr;
 SELECT * from fvicg;
 SELECT * from bgpff;
 SELECT * from bvpig;
+SELECT * from qebty;
