@@ -45,3 +45,4 @@ SELECT * from aqjxu;
 SELECT * from cvnvo;
 SELECT * from kpfhm;
 SELECT * from mlpog;
+SELECT * from dqdos;
