@@ -135,3 +135,4 @@ SELECT * from bgpff;
 SELECT * from bvpig;
 SELECT * from qebty;
 SELECT * from trjva;
+SELECT * from udnln;
