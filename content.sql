@@ -137,3 +137,4 @@ SELECT * from qebty;
 SELECT * from trjva;
 SELECT * from udnln;
 SELECT * from jssod;
+SELECT * from lgrwu;
