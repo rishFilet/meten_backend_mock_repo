@@ -48,3 +48,4 @@ SELECT * from mlpog;
 SELECT * from dqdos;
 SELECT * from wndrq;
 SELECT * from tsaso;
+SELECT * from mbivb;
