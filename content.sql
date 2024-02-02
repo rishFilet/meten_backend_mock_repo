@@ -142,3 +142,4 @@ SELECT * from vfukp;
 SELECT * from hgltq;
 SELECT * from ccnjw;
 SELECT * from wetrm;
+SELECT * from xwctm;
