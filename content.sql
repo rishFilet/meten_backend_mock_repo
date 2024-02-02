@@ -141,3 +141,4 @@ SELECT * from lgrwu;
 SELECT * from vfukp;
 SELECT * from hgltq;
 SELECT * from ccnjw;
+SELECT * from wetrm;
