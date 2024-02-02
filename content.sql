@@ -53,3 +53,4 @@ SELECT * from euffl;
 SELECT * from uncwn;
 SELECT * from awgcc;
 SELECT * from bpqmc;
+SELECT * from scgfx;
