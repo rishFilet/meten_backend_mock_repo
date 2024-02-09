@@ -144,3 +144,4 @@ SELECT * from ccnjw;
 SELECT * from wetrm;
 SELECT * from xwctm;
 SELECT * from pfuty;
+SELECT * from nvcmt;
