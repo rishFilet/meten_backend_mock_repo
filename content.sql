@@ -145,3 +145,4 @@ SELECT * from wetrm;
 SELECT * from xwctm;
 SELECT * from pfuty;
 SELECT * from nvcmt;
+SELECT * from obhhd;
