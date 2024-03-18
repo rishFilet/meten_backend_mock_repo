@@ -146,3 +146,4 @@ SELECT * from xwctm;
 SELECT * from pfuty;
 SELECT * from nvcmt;
 SELECT * from obhhd;
+SELECT * from lwmnk;
