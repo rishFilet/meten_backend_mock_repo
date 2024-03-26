@@ -1,2 +1,2 @@
 console.log("bxnur")
-console.log("ivydi")
+console.log("anghe")
