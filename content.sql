@@ -149,4 +149,3 @@ SELECT * from obhhd;
 SELECT * from lwmnk;
 SELECT * from wlpyc;
 SELECT * from cafry;
-SELECT * from vjjhb;
