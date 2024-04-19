@@ -60,3 +60,4 @@ SELECT * from nykjp;
 SELECT * from xkwlf;
 SELECT * from opixy;
 SELECT * from bbhnb;
+SELECT * from ddtww;
