@@ -62,4 +62,4 @@ SELECT * from opixy;
 SELECT * from bbhnb;
 SELECT * from ddtww;
 SELECT * from rmbov;
-SELECT * from pujmm;
+SELECT * from djvpn;
