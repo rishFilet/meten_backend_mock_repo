@@ -153,3 +153,4 @@ SELECT * from abjmv;
 SELECT * from litux;
 SELECT * from xrimu;
 SELECT * from gvpwd;
+SELECT * from xwebg;
