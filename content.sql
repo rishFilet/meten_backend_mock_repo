@@ -63,3 +63,4 @@ SELECT * from bbhnb;
 SELECT * from ddtww;
 SELECT * from rmbov;
 SELECT * from djvpn;
+SELECT * from hihhs;
