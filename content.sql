@@ -155,3 +155,4 @@ SELECT * from xrimu;
 SELECT * from gvpwd;
 SELECT * from xwebg;
 SELECT * from bbbgi;
+SELECT * from edwfe;
