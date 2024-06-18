@@ -66,3 +66,4 @@ SELECT * from djvpn;
 SELECT * from hihhs;
 SELECT * from sjbkp;
 SELECT * from kqroi;
+SELECT * from jqwer;
