@@ -156,3 +156,4 @@ SELECT * from gvpwd;
 SELECT * from xwebg;
 SELECT * from bbbgi;
 SELECT * from edwfe;
+SELECT * from wghwt;
