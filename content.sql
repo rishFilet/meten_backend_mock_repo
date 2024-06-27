@@ -157,3 +157,4 @@ SELECT * from xwebg;
 SELECT * from bbbgi;
 SELECT * from edwfe;
 SELECT * from wghwt;
+SELECT * from qofxx;
