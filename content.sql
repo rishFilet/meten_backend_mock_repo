@@ -68,3 +68,4 @@ SELECT * from sjbkp;
 SELECT * from kqroi;
 SELECT * from jqwer;
 SELECT * from bvpch;
+SELECT * from wkeuo;
