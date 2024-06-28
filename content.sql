@@ -69,3 +69,4 @@ SELECT * from kqroi;
 SELECT * from jqwer;
 SELECT * from bvpch;
 SELECT * from wkeuo;
+SELECT * from ngqfx;
