@@ -73,3 +73,4 @@ SELECT * from ngqfx;
 SELECT * from akfgx;
 SELECT * from soibp;
 SELECT * from rugac;
+SELECT * from ykhmo;
