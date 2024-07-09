@@ -71,3 +71,4 @@ SELECT * from bvpch;
 SELECT * from wkeuo;
 SELECT * from ngqfx;
 SELECT * from akfgx;
+SELECT * from soibp;
