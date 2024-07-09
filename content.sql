@@ -160,3 +160,4 @@ SELECT * from wghwt;
 SELECT * from qofxx;
 SELECT * from rrbcv;
 SELECT * from mhmpx;
+SELECT * from eawaf;
