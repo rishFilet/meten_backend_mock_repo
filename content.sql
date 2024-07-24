@@ -164,3 +164,4 @@ SELECT * from eawaf;
 SELECT * from iotbr;
 SELECT * from ptefv;
 SELECT * from rnske;
+SELECT * from xanua;
