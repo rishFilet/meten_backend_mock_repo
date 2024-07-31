@@ -75,3 +75,4 @@ SELECT * from soibp;
 SELECT * from rugac;
 SELECT * from ykhmo;
 SELECT * from jches;
+SELECT * from egsry;
