@@ -166,3 +166,4 @@ SELECT * from ptefv;
 SELECT * from rnske;
 SELECT * from xanua;
 SELECT * from cwfmx;
+SELECT * from qiocm;
