@@ -77,3 +77,4 @@ SELECT * from ykhmo;
 SELECT * from jches;
 SELECT * from egsry;
 SELECT * from hsrlp;
+SELECT * from qdysh;
