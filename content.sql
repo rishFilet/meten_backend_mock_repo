@@ -78,3 +78,4 @@ SELECT * from jches;
 SELECT * from egsry;
 SELECT * from hsrlp;
 SELECT * from qdysh;
+SELECT * from nprbo;
