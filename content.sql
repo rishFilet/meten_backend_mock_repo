@@ -79,3 +79,4 @@ SELECT * from egsry;
 SELECT * from hsrlp;
 SELECT * from qdysh;
 SELECT * from cllaq;
+SELECT * from xbusd;
