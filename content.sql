@@ -81,3 +81,4 @@ SELECT * from qdysh;
 SELECT * from cllaq;
 SELECT * from xbusd;
 SELECT * from lnvkn;
+SELECT * from bsojn;
