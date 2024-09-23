@@ -171,3 +171,4 @@ SELECT * from lonbr;
 SELECT * from qqohs;
 SELECT * from uerwp;
 SELECT * from xlcky;
+SELECT * from kipwo;
