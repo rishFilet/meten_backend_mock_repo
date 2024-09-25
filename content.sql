@@ -83,3 +83,4 @@ SELECT * from xbusd;
 SELECT * from lnvkn;
 SELECT * from bsojn;
 SELECT * from ynjel;
+SELECT * from aaqtp;
