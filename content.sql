@@ -173,3 +173,4 @@ SELECT * from uerwp;
 SELECT * from xlcky;
 SELECT * from kipwo;
 SELECT * from jcyra;
+SELECT * from rywvd;
