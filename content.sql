@@ -176,3 +176,4 @@ SELECT * from jcyra;
 SELECT * from rywvd;
 SELECT * from ognoo;
 SELECT * from ctbxl;
+SELECT * from jotpu;
