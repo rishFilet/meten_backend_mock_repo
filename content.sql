@@ -86,3 +86,4 @@ SELECT * from ynjel;
 SELECT * from aaqtp;
 SELECT * from kmtou;
 SELECT * from fdtmx;
+SELECT * from hfkqq;
